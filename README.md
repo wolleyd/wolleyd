@@ -4,7 +4,7 @@
 
 ```go
   func profile() {
-      code := Bash, Css, Go, Html, Javascript, Kotlin, Typescript
+      code := Bash, Css, Go, Html, Javascript, Typescript
       tools := Git, Jest, Svelt
   }
 ```

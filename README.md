@@ -25,6 +25,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>

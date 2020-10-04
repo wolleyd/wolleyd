@@ -8,7 +8,7 @@
 - ⚡️ I am currently working in a MVP for a startup
 
 <p align="center">
-**Languages and Tools:**
+  **Languages and Tools:**
 </p>
 
 <p align="center">

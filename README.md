@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- 💬 Ask me about **arduino, go, typescript**
+- 💬 Ask me about **arduino, git, go**
 
 <h3 align="center">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->

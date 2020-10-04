@@ -30,7 +30,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolleyd&layout=compact" alt="wolleyd" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolleyd&layout=compact" alt="wolleyd" /></p>
 
 **Social:**
 <p align="center">

@@ -6,7 +6,6 @@
 - 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🖼 Computer Vision, 📊 Data Science, 💻 Backend]
 - 📈 I’m fluent in [C/C++, Go, Html, Css, Arduino];
 - ⚡️ I am currently working in a MVP for a startup
-- 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 

@@ -26,6 +26,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolleyd&layout=compact" alt="wolleyd" />
 </p>
 
+<p align="center">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+</p>
+
 **Social Media:**
 
 <p align="center">

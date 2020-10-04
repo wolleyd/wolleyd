@@ -38,6 +38,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolleyd&layout=compact" alt="wolleyd"/>
 </p>

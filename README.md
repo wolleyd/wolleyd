@@ -27,6 +27,10 @@
 </p>
 
 <p align="center">
+**Social Media:**
+</p>
+
+<p align="center">
  <a href="https://twitter.com/spida_rwin">
   <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
  </a>

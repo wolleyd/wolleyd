@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi 👋, I'm Wolleyd</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Wolleyd</h1>
 
 <h3 align="center">A passionate backend developer from México</h3>
 
@@ -6,8 +6,9 @@
 - 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🖼 Computer Vision, 📊 Data Science, 💻 Backend]
 - 📈 I’m fluent in [C/C++, Go, Html, Css, Arduino];
 - ⚡️ I am currently working in a MVP for a startup
-
+<p align="center">
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+</p>
 
 **Languages and Tools:**  
 
@@ -32,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolleyd&layout=compact" alt="wolleyd" /></p>
 
-**Social**
+**Social:**
 <p align="center">
 <a href="https://twitter.com/spida_rwin">
   <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />

@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from México</h3>
 
 - 📖 I’m currently learning about Google Cloud Platform;
-- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🖼 Computer Vision, 📊 Data Science, Backend]
+- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🖼 Computer Vision, 📊 Data Science, 💻 Backend]
 - 📈 I’m fluent in [C/C++, Go, Html, Css];
 - ⚡️ I am currently working in a MVP for a startup
 - 📫 How to reach me: <erwinlejeune.pro@gmail.com>;

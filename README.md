@@ -9,11 +9,9 @@
 
 - 💬 Ask me about **arduino, go, typescript**
 
-<p align="center">
-### Blogs posts
+<h3 align="center">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</p>
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>

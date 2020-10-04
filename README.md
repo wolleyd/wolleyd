@@ -2,6 +2,12 @@
 
 <h3 align="center">A passionate frontend developer from México</h3>
 
+- 📖 I’m currently learning about Google Cloud Platform;
+- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🖼 Computer Vision, 📊 Data Science, Backend]
+- 📈 I’m fluent in [C/C++, Go, Html, Css];
+- ⚡️ I am currently working in a MVP for a startup
+- 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 **Languages and Tools:**  
@@ -15,29 +21,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
-
-- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
-- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🎛 Embedded Systems, 🖼 Computer Vision, 📊 Data Science]
-- 📈 I’m fluent in [C/C++, Python, Go, Julia, Matlab];
-- 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- ⚡️ I am currently writing an article along with [Sampreet Sarkar](https://github.com/sampreets3) to submit at **ICCAR 2021** for our work on Real-Time constrained ROS using Xenomai.
-- 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolleyd&layout=compact" alt="wolleyd" /></p>
 
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Go         3 hrs 38 mins   █████████████████▓░░░░░░░   70.86 % 
-Python     1 hr 11 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.32 % 
-Crontab    12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-C          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-```
-<!--END_SECTION:waka-->
-
-
+**Social**
 <p align="center">
 <br/>
 <a href="https://twitter.com/spida_rwin">

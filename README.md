@@ -4,14 +4,13 @@
 
 - 📖 I’m currently learning about Google Cloud Platform;
 - 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🖼 Computer Vision, 📊 Data Science, 💻 Backend]
-- 📈 I’m fluent in [Arduino, C/C++, Css, Go, Html];
+- 📈 I’m fluent in [Arduino, Css, Go, Html];
 - ⚡️ I am currently working in a MVP for a startup
 
 **Languages and Tools:**
 
 <p align="center">
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>

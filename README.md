@@ -26,9 +26,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolleyd&layout=compact" alt="wolleyd" />
 </p>
 
-<p align="center">
 **Social Media:**
-</p>
 
 <p align="center">
  <a href="https://twitter.com/spida_rwin">

@@ -9,18 +9,6 @@
 
 - 💬 Ask me about **arduino, git, go**
 
-<h3 align="center">Blogs posts:</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="center">Connect with me:</h3>
-<a href="https://stackoverflow.com/users/iramdiaz" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iramdiaz" height="30" width="40" />
-</a>
-<a href="https://medium.com/@iramdiaz" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@iramdiaz" height="30" width="40" />
-</a>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="bash" width="60" height="60"/>

@@ -1,7 +1,12 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Wolleyd 
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+  Hi, I'm Iram Diaz 
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+</h1>
 
-<h3 align="center">A passionate backend developer from Mexico</h3>
+<h3 align="center">
+  A passionate backend developer from Mexico
+</h3>
 
 - 🔭 I’m currently working on **MVP for a startup**
 
@@ -9,7 +14,9 @@
 
 - 💬 Ask me about **arduino, git, go**
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">
+  Languages and Tools:
+</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="bash" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
